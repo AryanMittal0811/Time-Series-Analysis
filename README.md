@@ -1,0 +1,1 @@
+Time Series Analysis and Forecasting: Performed extensive time series analysis, comparing AR, MA, ARMA, ARIMA, ARIMAX, SARIMAX, and automated ARIMA models to evaluate forecasting effectiveness using statistical metrics. Utilized SARIMAX model for accurately forecasting Nifty 50.
